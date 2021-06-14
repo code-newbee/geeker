@@ -7,7 +7,7 @@ import (
 	"net"
 )
 
-type GeekerServiceImpl struct {}
+type GeekerServiceImpl struct{}
 
 const (
 	port = ":50001"
@@ -15,13 +15,13 @@ const (
 
 func Run() {
 	lis, err := net.Listen("tcp", port)
-	if err != nil{
+	if err != nil {
 		log.Fatal("tcp listen error")
 	}
 	s := grpc.NewServer()
 	pb.RegisterGreekerServer(s, &GeekerServiceImpl{})
 	log.Printf("start svr success, listen %v", port)
-	if err := s.Serve(lis); err != nil{
+	if err := s.Serve(lis); err != nil {
 		log.Fatalf("svr start error")
 	}
 }
