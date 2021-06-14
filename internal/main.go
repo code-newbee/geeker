@@ -19,7 +19,7 @@ func Run() {
 		log.Fatal("tcp listen error")
 	}
 	s := grpc.NewServer()
-	pb.RegisterGeekerServer(s, &GeekerServiceImpl{})
+	pb.RegisterGreekerServer(s, &GeekerServiceImpl{})
 	log.Printf("start svr success, listen %v", port)
 	if err := s.Serve(lis); err != nil{
 		log.Fatalf("svr start error")

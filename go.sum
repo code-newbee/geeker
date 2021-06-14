@@ -9,6 +9,7 @@ github.com/cncf/udpa/go v0.0.0-20201120205902-5459f2c99403/go.mod h1:WmhPx2Nbnht
 github.com/code-newbee/protocol v0.0.0-20210611010024-ca7b12b83d2b h1:Y5ZTZ71VzI8aJv0ZH+iHGFP70oY6iqXgbYi5jTce2T8=
 github.com/code-newbee/protocol v0.0.0-20210612052732-7da1cb31de54 h1:63BXwIpXDl5hVcqHe23kwuAaVLDxVQHnc3KJN3ZZzK0=
 github.com/code-newbee/protocol v0.0.0-20210613103205-5c5b4fc7630c h1:fVhdlU6vccl5C/icDr4lRFuMyRQxZRWjg9bVbg+mVf8=
+github.com/code-newbee/protocol v0.0.0-20210614091437-083cd3912559 h1:0Msc2djtRVGgEwL7BdNTZgi6DIjo1U4BwhId+dRVJr8=
 github.com/code-newbee/protocol/geeker v0.0.0-20210611010024-ca7b12b83d2b h1:v1RK27Iw6K0+ksIE3o7QvkW+DgeOuLxXpdA+v4Gbht8=
 github.com/code-newbee/protocol/geeker v0.0.0-20210611010024-ca7b12b83d2b/go.mod h1:kVPXMVE8ZWWPj7+p5pMYE28lOVVNclvhrs4lMYn5Sxk=
 github.com/code-newbee/protocol/geeker v0.0.0-20210612052732-7da1cb31de54 h1:Dpb8JxDnahgH3aJUsIFFmpEk7atZAWgGYSELqh9txAQ=
@@ -17,6 +18,8 @@ github.com/code-newbee/protocol/geeker v0.0.0-20210613060007-37bf7a260c21 h1:x2s
 github.com/code-newbee/protocol/geeker v0.0.0-20210613060007-37bf7a260c21/go.mod h1:kVPXMVE8ZWWPj7+p5pMYE28lOVVNclvhrs4lMYn5Sxk=
 github.com/code-newbee/protocol/geeker v0.0.0-20210613103205-5c5b4fc7630c h1:9gt8JNWBVPXe2W/YmJlz7BpmN9Qavo9QdlGV9fTdEc8=
 github.com/code-newbee/protocol/geeker v0.0.0-20210613103205-5c5b4fc7630c/go.mod h1:kVPXMVE8ZWWPj7+p5pMYE28lOVVNclvhrs4lMYn5Sxk=
+github.com/code-newbee/protocol/geeker v0.0.0-20210614091437-083cd3912559 h1:YNoYoXStkLiZdyJhFUmd3I6D3bcLVtKaYqOi2yidYIE=
+github.com/code-newbee/protocol/geeker v0.0.0-20210614091437-083cd3912559/go.mod h1:kVPXMVE8ZWWPj7+p5pMYE28lOVVNclvhrs4lMYn5Sxk=
 github.com/code-newbee/protocol/geeker_http v0.0.0-20210613060007-37bf7a260c21 h1:65VCN/9/EmzJweJ11+RAPK4Mn3Fy4hCqQbNkJUQNdwQ=
 github.com/code-newbee/protocol/geeker_http v0.0.0-20210613060007-37bf7a260c21/go.mod h1:qSsfrezI8PsKRRx5RqlFMneMANgspaPej6lZkrSvwgM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
